@@ -1,0 +1,23 @@
+.mainBackground {
+  background-image: url("./images/img_fan_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: -999999;
+  height: 70vh;
+  min-height: 518px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.fanImage {
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  justify-self: end;
+  align-self: flex-end;
+}

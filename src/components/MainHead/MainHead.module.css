@@ -1,0 +1,15 @@
+.container {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+.container h3 {
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+.container p {
+  font-size: 28px;
+  font-weight: 80;
+}
