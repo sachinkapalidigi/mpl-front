@@ -11,7 +11,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      headUserName: "username",
+      headUserName: "username1234",
       headText: "invited you to play Mobile Premier League!",
       smallBannerText: "Install MPL App and get 20 MPL Tokens Free!",
       bannerText1: "Get Free cash",
